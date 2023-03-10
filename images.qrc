@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>airplane_side.png</file>
+        <file>ViewPicture.png</file>
+        <file>plane_no_transpr.png</file>
+        <file>camera2.png</file>
+        <file>camera1.png</file>
+        <file>Target_load_cam.png</file>
+        <file>Borders_vertical.png</file>
+        <file>borders_gor.png</file>
+        <file>reload_png.png</file>
+        <file>settings_icon.png</file>
+        <file>settings_icon_2.png</file>
+        <file>gst_connect_settings.ini</file>
+    </qresource>
+</RCC>
